@@ -11,7 +11,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Mostrar Todas"
+        android:text="Mostrar Toast"
         android:id="@+id/BotonFragment"
         android:layout_gravity="center_horizontal|top" />
 </LinearLayout>
